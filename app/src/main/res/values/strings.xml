@@ -1,0 +1,75 @@
+<resources>
+    <string name="biodata">Biodata</string>
+
+    // Layout
+    <string name="hewan">hewan</string>
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="kembali">Kembali</string>
+    <string name="Kucing">Kucing</string>
+    <string name="semut">Semut</string>
+    <string name="Ular">Ular</string>
+    <string name="Kucing_list_title">Daftar Ras Kucing</string>
+    <string name="semut_list_title">Daftar Ras Semut</string>
+    <string name="Ular_list_title">Daftar Ras Ular</string>
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="isi_alamat">keruak</string>
+
+    // Data kucing
+    <string name="anggora_nama">Anggora</string>
+    <string name="anggora_asal">Turki</string>
+    <string name="anggora_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut</string>
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">inggris</string>
+    <string name="bengal_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris.</string>
+    <string name="birmani_nama">birmani</string>
+    <string name="birmani_asal">myanmar</string>
+    <string name="birmani_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    <string name="persia_nama">persia</string>
+    <string name="persia_asal">iran</string>
+    <string name="persia_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia.</string>
+    <string name="siam_nama">siam</string>
+    <string name="siam_asal">thailand</string>
+    <string name="siam_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan.</string>
+    <string name="siberia_nama">siberia</string>
+    <string name="siberia_asal">rusia</string>
+    <string name="siberia_deskripsi">Kucing domestik Rusia dengan bulu lebat dan badan besar tapi sangat lincah dan terkenal dengan kemampuan melompatnya.</string>
+    // Data semut
+    <string name="ochetellus_nama">ochetellus</string>
+    <string name="ochetellus_asal">laterille</string>
+    <string name="ochetellus_deskripsi">Semut ini berukuran 2,5 - 3 mm dengan warna hitam mengkilat dan sering kita jumpai di dapur atau kamar tidur</string>
+    <string name="solenopsis_spp_nama">Solenopsis spp</string>
+    <string name="solenopsis_spp_asal">Amazon, amerika selatan</string>
+    <string name="solenopsis_spp_deskripsi">Semut ini berwarna coklat tembaga pada kepala dan tubuh, dengan warna lebih gelap, semut ini memili ratu yg memili panjang 5/8mm dan lain hal nya dengan pekerja nya yg memiliki panjang 1/8 - 1/4</string>
+    <string name="tapinoma_melanocephalum_nama">Tapinoma melanocephalum</string>
+    <string name="tapinoma_melanocephalum_asal">kanada, amerika utara</string>
+    <string name="tapinoma_melanocephalum_deskripsi">kaki dan perut warna putih dengan panjang 1-16mm, ratu semut jenis ini berpoligami untuk menghasilkan telur</string>
+    <string name="tapinoma_sesile_nama">Tapinoma sesil</string>
+    <string name="tapinoma_sesile_asal">afrika</string>
+    <string name="tapinoma_sesile_deskripsi">Semut ini memiliki kaki 6 dengan antena 12 segmen dan tidak di akhiri dengan sebuah titik, memakan makanan manis seperti gula dan permen</string>
+    <string name="monomorium_pharaonis_nama">Monomorium pharaonis</string>
+    <string name="monomorium_pharaonis_asal">Jerman</string>
+    <string name="monomorium_pharaonis_deskripsi">Jenis semut ini tertarik pada makanan yg memiliki protein tinggi seperti daging, lemak, serangga mati dll.</string>
+    <string name="camponotus_ennsylvanicus_nama">Camponotus_ennsylvanicus</string>
+    <string name="camponotus_pennsylvanicus_asal">Jepang</string>
+    <string name="camponotus_pennsylvanicus_deskripsi">Semut ini kerap kali dijumpai pada kayu lembab dan juga kayu kering, jenis semut ini memakan cairan manis, sisa tanaman, dan sisa serangga</string>
+    // Data Ular
+    <string name="ular_sanca_nama">ular_sanca</string>
+    <string name="ular_sanca_asal">afrika</string>
+    <string name="ular_sanca_deskripsi">Ular tersebar luas di afrika subsahara,nepal,india,sri langka,myanmar,tiongkok selatan,asia tenggara,indonesia</string>
+    <string name="ular_kobra_nama">ular_kobra</string>
+    <string name="ular_kobra_asal">Indonesia</string>
+    <string name="ular_kobra_deskripsi">jenis ular ini memiliki kemampuan memipihkan lehernya hingga membentuk seperti sendok atau tudung</string>
+    <string name="ular_welang_nama">ular_welang</string>
+    <string name="ular_welang_asal">asia_tenggara</string>
+    <string name="ular_welang_deskripsi">ular ini adalah salah satu ular yang sangat mematikan,selain mematikan ular ini memiliki dua warna seperti cincin di tubuhnya</string>
+    <string name="ular_pucuk_nama">ular_pucuk</string>
+    <string name="ular_pucuk_asal">asia_selatan</string>
+    <string name="ular_pucuk_deskripsi">ular ini sering di jumpai di pohon bertubuh kecil dan ramping </string>
+    <string name="app_name">Hewan</string>
+    <string name="Kucing_semut_amp_Ular">kucing,semut and ular</string>
+</resources>
